@@ -1,0 +1,2 @@
+selenium==3.3.1
+tweepy==3.5.0
